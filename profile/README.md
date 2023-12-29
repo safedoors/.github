@@ -8,6 +8,7 @@ Mūsų bendruomenės Discord serveris
 
 ## Paremk mūsų veiklą
 Norintiems paremti mūsų veiklą, galite pasinaudoti nuoroda apačioje. Už padėka visada atsidėkosime "remėjas" role mūsų bendruomenės discord serveryje. Ačiū.
+<br>
 **<a href="https://www.buymeacoffee.com/safedoor">
 Ant kavos
 </a>**
