@@ -1,5 +1,5 @@
 ## Apie mus
-**SafeDoor** - maža grupelė programuotojų, kurie kuria open-source įrankius, jog padėtų Jūsų FiveM projektui apsisaugoti nuo backdoors, cipher bei kitų exploits ar cheater'ių (kenkėjų).
+**SafeDoor** - maža grupelė programuotojų, kurie kuria įrankius, jog padėtų Jūsų FiveM projektui apsisaugoti nuo backdoors, cipher bei kitų exploits ar cheater'ių (kenkėjų).
 
 ## Prisijunk prie mūsų
 **<a href="https://discord.gg/MfhwMKTkzd">
